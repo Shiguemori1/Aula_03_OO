@@ -1,0 +1,9 @@
+package FigurasGeometricas;
+
+public class Quadrado {
+
+	public Quadrado() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
